@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1360
     height: 685
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Inspector
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 109
+  controlID: 48
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,8 +191,8 @@ MonoBehaviour:
     y: 0
     width: 838
     height: 320
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -242,8 +242,8 @@ MonoBehaviour:
     y: 0
     width: 288
     height: 635
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -922,9 +922,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.00000071525574, y: 1.2734299, z: 0.73075306}
+    m_Target: {x: 14.534394, y: 12.615559, z: 101.135025}
     speed: 2
-    m_Value: {x: -0.00000071525574, y: 1.2734299, z: 0.73075306}
+    m_Value: {x: 14.534394, y: 12.615559, z: 101.135025}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -970,13 +970,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.23263256, y: -0.44636953, z: 0.1213768, w: 0.8555182}
+    m_Target: {x: 0.12506577, y: -0.23225754, z: 0.03012876, w: 0.96411407}
     speed: 2
-    m_Value: {x: 0.2326317, y: -0.4463679, z: 0.12137635, w: 0.85551506}
+    m_Value: {x: 0.12651126, y: -0.2322111, z: 0.030476987, w: 0.9639213}
   m_Size:
-    m_Target: 3.9759445
+    m_Target: 2.0225859
     speed: 2
-    m_Value: 3.9759445
+    m_Value: 2.117891
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1037,10 +1037,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fc1b0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 32fbffff
+      scrollPos: {x: 0, y: 787}
+      m_SelectedIDs: a2f9ffff
+      m_LastClickedID: -1630
+      m_ExpandedIDs: 32fbffffa6590000b4590000fe590000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
