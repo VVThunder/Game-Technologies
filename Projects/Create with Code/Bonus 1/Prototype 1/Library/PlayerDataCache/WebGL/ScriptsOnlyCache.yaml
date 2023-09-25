@@ -1,9 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - FollowPlayerX
-    - PlayerControllerX
-    - SpinPropellerX
+    - FollowPlayer
+    - MoveForward
+    - PlayerController
     Unity.Play.Publisher.Editor.dll:
     - Unity.Play.Publisher.Editor.AnalyticsHelper
     Unity.Rider.Editor.dll:
@@ -15,7 +15,7 @@ ScriptsOnlyBuild:
   serializedClasses: {}
   methodsToPreserve: []
   sceneClasses:
-    Assets/Challenge 1/Challenge 1.unity:
+    Assets/Scenes/Prototype 1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -49,18 +49,16 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 4166}
+      Script: {instanceID: 3622}
     - Class: 114
-      Script: {instanceID: 5344}
+      Script: {instanceID: 5914}
     - Class: 114
-      Script: {instanceID: 5922}
+      Script: {instanceID: 7164}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
-      Script: {instanceID: 0}
-    - Class: 258
       Script: {instanceID: 0}
     - Class: 850595691
       Script: {instanceID: 0}
@@ -925,6 +923,6 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 20
   scenePathNames:
-  - Assets/Challenge 1/Challenge 1.unity
-  playerPath: E:/Unity Backup/Game-Technologies/Projects/Create with Code/Prototype
-    1/Builds
+  - Assets/Scenes/Prototype 1.unity
+  playerPath: E:/Unity Backup/Game-Technologies/Projects/Create with Code/Bonus 1/Prototype
+    1/Builds/Bonus Build

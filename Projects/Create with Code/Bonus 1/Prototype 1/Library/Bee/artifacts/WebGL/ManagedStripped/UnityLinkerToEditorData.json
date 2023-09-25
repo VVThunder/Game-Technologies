@@ -7,7 +7,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -21,7 +21,7 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -58,7 +58,7 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -78,7 +78,7 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -98,7 +98,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -112,7 +112,7 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -138,7 +138,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -146,23 +146,21 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "LightProbes",
-            "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
-            ],
+            "scenes": [],
             "dependencyType": 0,
             "icon": null
           },
           {
             "name": "LightingSettings",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -170,7 +168,7 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -184,7 +182,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -192,7 +190,7 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -200,7 +198,7 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -208,7 +206,7 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -216,7 +214,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -230,7 +228,7 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -238,7 +236,7 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -282,7 +280,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -314,7 +312,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -382,7 +380,7 @@
           {
             "name": "Transform",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -446,7 +444,7 @@
           {
             "name": "BoxCollider",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -460,7 +458,7 @@
           {
             "name": "MeshCollider",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -474,7 +472,7 @@
           {
             "name": "Rigidbody",
             "scenes": [
-              "Assets/Challenge 1/Challenge 1.unity"
+              "Assets/Scenes/Prototype 1.unity"
             ],
             "dependencyType": 0,
             "icon": null
