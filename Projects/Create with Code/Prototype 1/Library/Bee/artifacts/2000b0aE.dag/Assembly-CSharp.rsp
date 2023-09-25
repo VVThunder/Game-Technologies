@@ -339,6 +339,7 @@
 "Assets/Challenge 1/Scripts/PlayerControllerX.cs"
 "Assets/Challenge 1/Scripts/SpinPropellerX.cs"
 "Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/MoveForward.cs"
 "Assets/Scripts/PlayerController.cs"
 -langversion:9.0
 
